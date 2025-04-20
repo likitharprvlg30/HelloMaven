@@ -8,6 +8,8 @@
   <name>HelloMaven</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+     <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
